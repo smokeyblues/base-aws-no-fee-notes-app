@@ -1,0 +1,15 @@
+{
+  "name": "@base-aws-notes-app/scripts",
+  "version": "0.0.0",
+  "dependencies": {
+    "@base-aws-notes-app/core": "*",
+    "sst": "*"
+  },
+  "scripts": {
+    "shell": "sst shell tsx"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "tsx": "^4.7.2"
+  }
+}
