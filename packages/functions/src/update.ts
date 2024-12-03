@@ -1,5 +1,5 @@
 import { Resource } from "sst";
-import { Util } from "@base-aws-notes-app/core/util";
+import { Util } from "@base-aws-no-fee-notes-app/core/util";
 import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
 import { UpdateCommand, DynamoDBDocumentClient } from "@aws-sdk/lib-dynamodb";
 

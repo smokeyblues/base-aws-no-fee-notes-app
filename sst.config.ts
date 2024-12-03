@@ -3,7 +3,7 @@
 export default $config({
   app(input) {
     return {
-      name: "base-aws-notes-app",
+      name: "base-aws-no-fee-notes-app",
       removal: input?.stage === "production" ? "retain" : "remove",
       home: "aws",
     };

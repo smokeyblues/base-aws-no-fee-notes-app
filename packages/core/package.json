@@ -1,5 +1,5 @@
 {
-  "name": "@base-aws-notes-app/core",
+  "name": "@base-aws-no-fee-notes-app/core",
   "version": "0.0.0",
   "scripts": {
     "test": "sst shell vitest"

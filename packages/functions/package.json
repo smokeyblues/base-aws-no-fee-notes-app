@@ -1,10 +1,10 @@
 {
-  "name": "@base-aws-notes-app/functions",
+  "name": "@base-aws-no-fee-notes-app/functions",
   "version": "0.0.0",
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.699.0",
     "@aws-sdk/lib-dynamodb": "^3.699.0",
-    "@base-aws-notes-app/core": "*",
+    "@base-aws-no-fee-notes-app/core": "*",
     "sst": "*",
     "stripe": "^17.4.0",
     "uuid": "^11.0.3"

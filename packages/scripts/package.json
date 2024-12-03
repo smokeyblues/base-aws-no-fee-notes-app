@@ -1,8 +1,8 @@
 {
-  "name": "@base-aws-notes-app/scripts",
+  "name": "@base-aws-no-fee-notes-app/scripts",
   "version": "0.0.0",
   "dependencies": {
-    "@base-aws-notes-app/core": "*",
+    "@base-aws-no-fee-notes-app/core": "*",
     "sst": "*"
   },
   "scripts": {
