@@ -6,8 +6,6 @@ The [SST Guide](https://sst.dev/guide) is a comprehensive open source tutorial f
 
 We create a note taking app from scratch — [**demo.sst.dev**](https://demo.sst.dev)
 
-![Demo App](screenshot.png)
-
 We use React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito. This repo is a full-stack serverless app built with SST.
 
 - The `infra/` directory defines our AWS infrastructure.
